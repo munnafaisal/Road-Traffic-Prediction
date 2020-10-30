@@ -7,9 +7,7 @@ mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.19.2
-opencv-python==4.4.0.44
-pandas @ file:///tmp/build/80754af9/pandas_1602088128026/work
-Pillow==8.0.1
+pandas
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
@@ -19,4 +17,3 @@ scipy==1.5.3
 six==1.15.0
 sklearn==0.0
 threadpoolctl==2.1.0
-zmq==0.0.0
