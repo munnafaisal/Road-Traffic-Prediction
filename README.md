@@ -50,6 +50,12 @@ _Run the commands in a terminal or command-prompt.
  source .env/bin/activate
  ```
 
+* Install python dependencies from requirements.txt.
+ ```bash
+  pip install -r requirements.txt
+  ```
+
+
 ## How To Run
 
 After installing all the required libraries run the following commands in the terminal.
