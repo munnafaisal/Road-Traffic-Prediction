@@ -55,11 +55,31 @@ _Run the commands in a terminal or command-prompt.
   pip install -r requirements.txt
   ```
 
-
 ## How To Run
 
 After installing all the required libraries run the following commands in the terminal.
 
-```bash
+```bashres 
 python3 run_1.py
  ```
+
+
+# Description
+
+* Available Features
+
+'TRAFFIC_STUDY_SPEED_ID', 'ROW_ID', 'DATA_FILE', 'SITE_CODE', 'DATETIME', 'YEAR', 'MONTH', 'DAY_OF_MONTH', 'DAY_OF_WEEK', 'TIME', 'SPEED_CHANNEL', 'COUNT_TOTAL', 'SPEED_0_14', 'SPEED_15_19', 'SPEED_20_24', 'SPEED_25_29', 'SPEED_30_34', 'SPEED_35_39', 'SPEED_40_44', 'SPEED_45_49', 'SPEED_50_54', 'SPEED_55_59', 'SPEED_60_64', 'SPEED_65_69', 'SPEED_70_200'
+
+
+* Cluster Parameter
+
+   Vehicle Speed  (Speed range which counted for maximum number of vehicle in one hour)
+   
+   
+
+* Features Used For Training 
+
+     DAY_OF_MONTH
+     DAY_OF_WEEK
+     SITE_CODE
+     TIME
