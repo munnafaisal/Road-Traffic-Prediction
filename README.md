@@ -10,3 +10,8 @@
 
 ## How To Run
 
+After installing all the required libraries run the following commands in the terminal.
+
+```bash
+python3 run_1.py
+ ```
