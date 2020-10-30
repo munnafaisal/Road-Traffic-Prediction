@@ -79,7 +79,7 @@ python3 run_1.py
 
 * Features Used For Training 
 
-     DAY_OF_MONTH
-     DAY_OF_WEEK
-     SITE_CODE
-     TIME
+     * DAY_OF_MONTH
+     * DAY_OF_WEEK
+     * SITE_CODE
+     * TIME
