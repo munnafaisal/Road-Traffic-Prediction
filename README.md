@@ -66,7 +66,7 @@ python3 run_1.py
 
 # Description
 
-* Available Features
+### Available Features
 
 * 'TRAFFIC_STUDY_SPEED_ID' 
 * 'ROW_ID' 
@@ -95,13 +95,13 @@ python3 run_1.py
 * 'SPEED_70_200'
 
 
-* Cluster Parameter
+### Cluster Parameter
 
    Vehicle Speed  (Speed range which counted for maximum number of vehicle in one hour)
    
    
 
-* Features Used For Training 
+### Features Used For Training 
 
      * DAY_OF_MONTH
      * DAY_OF_WEEK
